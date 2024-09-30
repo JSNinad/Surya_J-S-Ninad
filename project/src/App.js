@@ -5,8 +5,8 @@ import axios from "axios";
 import { toJson } from "plain-text-data-to-json";
 
 function App() {
-  const [cuurentPlace, setcurrentPlace] = useState();
-  const [cuurentTemp, setcurrentTemp] = useState();
+  const [curentPlace, setcurrentPlace] = useState();
+  const [curentTemp, setcurrentTemp] = useState();
   const [weather_summary, setweather_summary] = useState();
   const [minimum_temp, setminimum_temp] = useState();
   const [maximum_temp, setmaximum_temp] = useState();
@@ -53,8 +53,8 @@ function App() {
     <>
       <div class="bg-gray-800 h-screen flex items-center justify-center" style={{ backgroundImage: "url('Background .png')",backgroundRepeat:"no-repeat"}}  >
         <center>
-          <h2 class="text-white text-5xl font-bold">{cuurentPlace}</h2>
-          <h2 class="text-white text-5xl font-bold">{cuurentTemp} C</h2>
+          <h2 class="text-white text-5xl font-bold">{curentPlace}</h2>
+          <h2 class="text-white text-5xl font-bold">{curentTemp} C</h2>
           <h3 class="text-white text-2xl">{weather_summary}</h3>
           <h3 class="text-white text-2xl">
             Mostly cloudy {minimum_temp} /{maximum_temp}{" "}
