@@ -51,7 +51,7 @@ function App() {
 
   return (
     <>
-      <div class="bg-gray-800 h-screen flex items-center justify-center" style={{ backgroundImage: "url('Background .png')",backgroundRepeat:"no-repeat"}}  >
+      <div class="bg-gray-600 h-screen flex items-center justify-center" style={{ backgroundImage: "url('Background .png')",backgroundRepeat:"no-repeat"}}  >
         <center>
           <h2 class="text-white text-5xl font-bold">{curentPlace}</h2>
           <h2 class="text-white text-5xl font-bold">{curentTemp} C</h2>
