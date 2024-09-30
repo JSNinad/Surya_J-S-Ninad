@@ -72,7 +72,7 @@ function App() {
                     <div className='col-span-1'>
                       <h1>Now</h1>
                       <image src= "./cloudy .svg" alt="img" height="250px" width="250px"/>
-                      <h1>34</h1>
+                      <h1>33</h1>
                     </div>
                     <div className='col-span-1'>
                       <h1>1:00pm</h1>
@@ -80,19 +80,19 @@ function App() {
                       <h1>34</h1>
                     </div>
                     <div className='col-span-1'>
-                      <h1>Now</h1>
+                      <h1>2:00pm</h1>
                       <image src= "./Assets/cloudy .svg" alt="img" height="250px" width="250px"/>
-                      <h1>34</h1>
+                      <h1>44</h1>
                     </div>
                     <div className='col-span-1'>
-                      <h1>Now</h1>
+                      <h1>3:00pm</h1>
                       <image src= "./Assets/cloudy .svg" alt="img" height="250px" width="250px"/>
-                      <h1>34</h1>
+                      <h1>38</h1>
                     </div>
                     <div className='col-span-1'>
-                      <h1>Now</h1>
+                      <h1>4:00pm</h1>
                       <image src= "./Assets/cloudy .svg" alt="img" height="250px" width="250px"/>
-                      <h1>34</h1>
+                      <h1>41</h1>
                     </div>
                  </div>
               </div>
