@@ -72,7 +72,7 @@ function App() {
                     <div className='col-span-1'>
                       <h1>Now</h1>
                       <image src= "./cloudy .svg" alt="img" height="250px" width="250px"/>
-                      <h1>33</h1>
+                      <h1>3</h1>
                     </div>
                     <div className='col-span-1'>
                       <h1>1:00pm</h1>
